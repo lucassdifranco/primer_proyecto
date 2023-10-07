@@ -1,0 +1,70 @@
+header{
+    text-align: center;
+}
+
+.carousel-inner img{
+    margin: auto;
+    width: 640px;
+   height: 500px;
+    }
+
+.form{
+    width: 200px;
+    height: 220px;
+}
+
+}
+.container-fluid{
+   background-color: #3BADA7;
+
+
+}
+.inscripcion{
+   text-align: center;
+   background-color: #A7E9E6;
+     
+}
+.parrafo1{
+    text-align: center;
+    color: #19514F;
+    font-size: 36pt;
+
+}
+.parrafo2{
+    text-align: center;
+    color: #19514F;
+}
+
+.titulo{
+    color:darkcyan;
+    background-color: ;
+
+}
+
+.nav-link{
+   color: #19514F;
+   
+}
+
+.content{
+    background-color: #A7E9E6;
+}
+.footer-content{
+  background-color: #3BADA7;
+  text-align: center;
+}
+
+.quien{
+    text-align: center;
+    color: darkslateblue;
+    font-size: 20pt;
+    
+}
+
+.gente{
+   height: 370px;
+   width: 210px;
+    display: flex;
+}
+
+

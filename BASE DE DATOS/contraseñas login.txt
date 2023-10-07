@@ -1,0 +1,5 @@
+USUARIO ADMIN: lucasadmin@tech.com
+               123456
+
+USUARIO CLIENTE: lucascliente@tech.com
+                 123456
